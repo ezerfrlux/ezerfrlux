@@ -26,13 +26,13 @@
 ### Latest videos on my [YouTube Channel](https://www.youtube.com/@ezer_fr)
 
 <a href='https://youtu.be/HBmzr9F6RJk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/HBmzr9F6RJk/mqdefault.jpg' alt='Video 1' />
+  <img width='33%' src='https://img.youtube.com/vi/HBmzr9F6RJk/mqdefault.jpg' alt='Video 1' />
 </a>
 <a href='https://youtu.be/J7Q1HPx7bdI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/J7Q1HPx7bdI/mqdefault.jpg' alt='Video 2' />
+  <img width='33%' src='https://img.youtube.com/vi/J7Q1HPx7bdI/mqdefault.jpg' alt='Video 2' />
 </a>
 <a href='https://youtu.be/AKf5-5H2Ja0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/AKf5-5H2Ja0/mqdefault.jpg' alt='Video 3' />
+  <img width='33%' src='https://img.youtube.com/vi/AKf5-5H2Ja0/mqdefault.jpg' alt='Video 3' />
 </a>
 
 
