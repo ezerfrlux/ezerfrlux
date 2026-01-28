@@ -23,7 +23,7 @@
   <img src="https://komarev.com/ghpvc/?username=ezerfrlux&label=Profile%20views&color=0e75b6&style=flat" alt="ezerfrlux" />
 </p>
 
-### 📹 Latest videos on my [Youtube Channel](https://youtube.com/midudev?sub_confirmation=1)
+### 📹 Latest videos on my [Youtube Channel](https://www.youtube.com/@ezer_fr)
 
 <a href='https://youtu.be/HBmzr9F6RJk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/HBmzr9F6RJk/mqdefault.jpg' alt='Video 1' />
