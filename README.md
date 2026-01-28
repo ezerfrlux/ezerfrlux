@@ -2,6 +2,7 @@
 
   
 <img src="https://imgs.search.brave.com/hd4I6vPulEkE5bDtyJbyvfAquG9KcL_ab9H2cZxd29I/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/bHhqbFNlcU45U3dB/QUFBTS9raXJpdG8t/c2t5LmdpZg.gif" width="900"  align="center" />
+
 </div>
 
 
@@ -22,7 +23,17 @@
   <img src="https://komarev.com/ghpvc/?username=ezerfrlux&label=Profile%20views&color=0e75b6&style=flat" alt="ezerfrlux" />
 </p>
 
+<div align="center">
+
+<img src="https://i.pinimg.com/originals/bc/37/75/bc3775d9369ff44ff482050591705fe4.gif" width="900"  align="center" />
+
+</div>
+<div align="center">
+
  <a href="https://ezerportfolio.vercel.app/" target="_blank">Portfolio</a>
+
+</div>
+
 
 <!--
 <p align="center">
