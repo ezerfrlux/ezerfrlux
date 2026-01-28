@@ -23,11 +23,7 @@
   <img src="https://komarev.com/ghpvc/?username=ezerfrlux&label=Profile%20views&color=0e75b6&style=flat" alt="ezerfrlux" />
 </p>
 
-<div align="center">
 
-<img src="https://i.pinimg.com/originals/bc/37/75/bc3775d9369ff44ff482050591705fe4.gif" width="900"  align="center" />
-
-</div>
 <div align="center">
 
  <a href="https://ezerportfolio.vercel.app/" target="_blank">Portfolio</a>
